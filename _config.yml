@@ -1,11 +1,11 @@
 # Site settings
-title: Beau Gilbert
-email: beaugilbert93@gmail.com
-url: https://coachbeau.github.io/cyber-base
+title: Anthony Sotolongo
+email: greend3t@gmail.com
+url: https://Elysiumcirca.github.io/Cyber-portfolio
 description: "Portfolio of cybersecurity work samples for a junior-level cyber security professional."
 keywords: "cybersecurity, cyber, security, portfolio, tech"
 skills: "Cybersecurity - Analyst - Ethical Hacker"
-meta_author: Gilbert Beau
+meta_author: Anthony Sotolongo
 
 # Google webmaster tools
 google_verify:
@@ -32,7 +32,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Beau Gilbert
+  copyright: Anthony Sotolongo
   location: Location
   social: Around the Web
   credits: Credits
@@ -40,17 +40,17 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: linkedin
-    url: https://www.linkedin.com/in/beau-gilbert93/
+    url: https://www.linkedin.com/in/anthony-sotolongo-59366028b/
   - title: github
-    url: https://github.com/coachbeau
+    url: https://github.com/Elysiumcirca
 
-# Email Address (make sure to include "mailto:" before your email!)
+# Email Address (mailto:greend3t@gmail.com)
 email:
-  email-url: mailto:beaugilbert93@gmail.com
+  email-url: mailto:greend3t@gmail.com
 
 # Postal address (add as many lines as necessary)
 location:
-  - line: Portland, Oregon
+  - line: San Antonio, Texas
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.
