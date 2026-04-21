@@ -6,7 +6,7 @@ img: audit.png
 alt: image-alt
 
 # Reminder: Update this link with your own project link
-project-url: https://drive.google.com/file/d/1F9A_DOLLTyRT_d6vC2zwgGXW5ZSNL9DP/view
+project-url: https://drive.google.com/file/d/1F9A_DOLLTyRT_d6vC2zwgGXW5ZSNL9DP/view](https://docs.google.com/document/d/1RRLsLrQKtKoNcvBBn7-8gRwOUZjseUvNmVaps7jLV0w/edit?tab=t.0#heading=h.87tykp1u0l36
 
 description: Conducted a controls and compliance assessment and provided recommendations to company stakeholders to mitigate risks and avoid fines based on best practices for NIST CSF, PCI DSS, GDPR, SOC 1 & SOC 2.
 ---
